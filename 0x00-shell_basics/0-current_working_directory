@@ -1,4 +1,3 @@
 #!/bin/bash
 name="james"
-echo "hello $name!!"
-echo "how are you doing $name!!"
+echo "hello $name!! how are you doing $name!! how are you doing $name!! how are you doing $name!! how are you doing $name!!"
