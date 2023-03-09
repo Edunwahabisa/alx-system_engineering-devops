@@ -1,3 +1,4 @@
 #!/bin/bash
-
-echo "james"
+name="james"
+echo "hello $name!!"
+echo "how are you doing $name!!"
