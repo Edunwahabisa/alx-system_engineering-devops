@@ -1,2 +1,2 @@
 #!/bin/bash
-echo /n "c c++ Go" 
+sort | uniq -u 
